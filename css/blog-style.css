@@ -376,8 +376,7 @@ article blockquote cite:before{
 .intro-header {
     background-position: center;
     background-repeat: no-repeat;
-    background-color: rgba(128, 128, 128,0.6);;
-   
+    background-color: rgba(128, 128, 128,0.6);
     background-attachment: scroll;
     background-size: cover;
     height: 300px;
