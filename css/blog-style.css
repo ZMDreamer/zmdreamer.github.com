@@ -376,7 +376,7 @@ article blockquote cite:before{
 .intro-header {
     background-position: center;
     background-repeat: no-repeat;
-    background:url('./css/images/header-bg.jpg') rgba(0, 0, 0,0.7);
+    background:url('./images/header-bg.png') rgba(0, 0, 0,0.7);
     background-attachment: scroll;
     background-size: cover;
     height: 300px;
@@ -1104,9 +1104,8 @@ img::-moz-selection {
 }
 
 .navbar-custom.is-fixed .brand-logo {
-    border-radius: 3px;
-    background: black;
-    color: white;
+    color: #ccc;
+    font-family: 'Pacifico', cursive;
     padding-bottom: 3px;
     padding-left: 5px;
     margin-right: 5px;
